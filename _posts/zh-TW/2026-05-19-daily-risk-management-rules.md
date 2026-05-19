@@ -121,14 +121,6 @@ lang: zh-TW
 
 
 
-## <span style="color: #FF5733;">Shutterstock</span>
-
-
-
-탐색
-
-
-
 
 
 ### <span style="color: #8E44AD;">Q2. 为什么说“冗余”是应对不可预测风险最有效的法则？</span>
