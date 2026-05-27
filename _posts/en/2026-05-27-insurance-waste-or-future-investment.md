@@ -2,7 +2,7 @@
 layout: post
 title: "Why Smart Leaders Treat Insurance as a Growth Strategy"
 description: "Learn why top CEOs view insurance as a strategic investment rather than a sunk cost. Master risk transfer and protect your bottom line today."
-categories: ['호기심 해결', 'en']
+categories: ['why', 'en']
 tags: [RiskManagement, StrategicInsurance, BusinessScaling, LeadershipStrategy, RiskTransfer]
 lang: en
 ---
