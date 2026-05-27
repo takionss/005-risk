@@ -2,7 +2,7 @@
 layout: post
 title: "¿Gasto o Inversión? Redescubre los Seguros y el Arte de Transferir Riesgos para Proteger tu Futuro"
 description: "¿Gasto o Inversión? Redescubre los Seguros y el Arte de Transferir Riesgos para Proteger tu Futuro"
-categories: ['호기심 해결', 'es']
+categories: ['why', 'es']
 tags: [seguros, finanzas personales, gestión de riesgos, inversión, protección financiera]
 lang: es
 ---
