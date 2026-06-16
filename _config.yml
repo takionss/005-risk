@@ -52,11 +52,11 @@ header_pages:
 # [추가된 부분] 언어별 사이트 타이틀 및 설명 설정
 # ----------------------------------------------------------------
 titles:
-  ko: "Smiles Life - 일상과 위험대비"
-  en: "Smiles Life - Daily Life and Risk Preparation"
-  ja: "Smiles Life - 日常とリスクへの備え"
-  zh-TW: "Smiles Life - 日常与风险防范"
-  es: "Smiles Life - Vida cotidiana y preparación ante riesgos"
+  ko: "일상과 위험대비"
+  en: "Daily Life and Risk Preparation"
+  ja: "日常とリスクへの備え"
+  zh-TW: "日常与风险防范"
+  es: "Vida cotidiana y preparación ante riesgos"
 
 descriptions:
   ko: "Smiles Life의 일상 속 위험 대비와 생명/손해 보험 보장 이론"
